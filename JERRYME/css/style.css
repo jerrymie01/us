@@ -1,0 +1,35 @@
+h1{
+    color: white;
+    padding-right: 50%;
+    
+}
+body{
+    background-image: url(/images/pexels-photo-635279.jpeg);
+    height: 100vh;width: 100vh;
+    background-position: center;
+    background-size: cover;
+
+}
+.nav {
+    background-image: url(/images/1194086.jpg);
+    color: white;
+}
+.memu {
+    background-image: url(/images/1194086.jpg);
+    height: 100vh;width: 100vh;
+    background-position: center;
+    background-size: cover;
+}
+#poem{
+    quatrain
+}
+#letter{
+    height: 100vh;width: 100vh;
+    background-position: center;
+    background-size: cover;
+
+}
+p{
+    color: white;
+    
+}
